@@ -1,0 +1,86 @@
+{
+  "common": {
+    "name": "Cette Météo France",
+    "description": "Cette carte permet d'afficher les entités de l'intégration Météo France.",
+    "not_available": "Entité introuvable.",
+    "toggle_power": "Turn on/off"
+  },
+  "phenomena": {
+    "clear": "Ciel dégagé",
+    "clear-night": "Nuit claire",
+    "cloudy": "Nuageux",
+    "fog": "Brouillard",
+    "hail": "Risque de grèle",
+    "lightning": "Orages",
+    "lightning-rainy": "Pluies orageuses",
+    "partlycloudy": "Eclaircies",
+    "pouring": "Pluie forte",
+    "rainy": "Pluie",
+    "snowy": "Neige",
+    "snowy-rainy": "Pluie verglaçante",
+    "sunny": "Ensoleillé",
+    "windy": "Venteux",
+    "windy-variant": "Venteux variable",
+    "exceptional": "Exceptionnel"
+  },
+  "weather": {
+    "wind_direction": [
+      "N",
+      "NNE",
+      "NE",
+      "ENE",
+      "E",
+      "ESE",
+      "SE",
+      "SSE",
+      "S",
+      "SSO",
+      "SO",
+      "OSO",
+      "O",
+      "ONO",
+      "NO",
+      "NNO",
+      "N"
+    ],
+    "sunset_up": "Heure de lever",
+    "sunset_down": "Heure de coucher",
+    "humidity": "Humidité",
+    "air_pressure": "Pression atmosphérique",
+    "forecast": "",
+    "wind": "vent"
+  },
+  "sensor": {
+    "cloud_cover": "Couverture nuageuse",
+    "rain_chance": "Risque de pluie",
+    "freeze_chance": "Risque de gel",
+    "snow_chance": "Risque de neige",
+    "uv": "Indice UV",
+    "alert": "Vigilance",
+    "next_rain": "Pluie dans l'heure",
+    "one_hour_forecast_raining": "{%s} dans {%s}",
+    "one_hour_forecast_no_rain": "Pas de pluie dans l'heure.",
+    "alert_level_red": "rouge",
+    "alert_level_orange": "orange",
+    "alert_level_yellow": "jaune",
+    "alert_level_green": "verte",
+    "alert_type_flood": "inondation",
+    "alert_message": "Vigilance {level} en cours."
+  },
+  "editor": {
+    "name": "Nom",
+    "entity": "Entité",
+    "icons_location": "Emplacement des icones",
+    "details": "Détails",
+    "show_current": "Principale",
+    "show_details": "Détails",
+    "show_one_hour": "Dans l'heure",
+    "show_alert": "Vigilances",
+    "show_forecast": "Tendances",
+    "number_futur_forecast": "Nombre de prévision"
+  },
+  "error": {
+    "no_entity": "Une entité doit être définie.",
+    "entity_unavailable": "Entité non disponible."
+  }
+}

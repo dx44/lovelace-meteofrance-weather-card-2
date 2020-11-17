@@ -1,2 +1,10 @@
 
-dist/.DS_Store
+dist/
+.venv/
+.nodeenvrc
+node_modules/
+.nvenv/
+.vscode/
+.devcontainer/
+dist
+node_modules

@@ -1,0 +1,8 @@
+{
+  "common": {
+    "name": "Meteo france weather card",
+    "description": "This card allow you to disply informations from Meteo France integration.",
+    "not_available": "Entity is not avaialable",
+    "toggle_power": "Turn on/off"
+  }
+}
