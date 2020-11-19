@@ -1,4 +1,11 @@
-.devcontainer
-.vscode
-dist
-node_modules
+# Dev Container
+.devcontainer/**
+
+# VSCode
+.vscode/**
+
+# Bundled JS
+dist/**
+
+# Librairies
+node_modules/**
