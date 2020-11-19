@@ -1,10 +1,9 @@
-
-dist/
-.venv/
+.venv
 .nodeenvrc
-node_modules/
-.nvenv/
-.vscode/
-.devcontainer/
+node_modules
+.nvenv
+.vscode
+.devcontainer
 dist
 node_modules
+dist
