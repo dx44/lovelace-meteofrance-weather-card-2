@@ -1,9 +1,4 @@
-.venv
-.nodeenvrc
-node_modules
-.nvenv
-.vscode
 .devcontainer
+.vscode
 dist
 node_modules
-dist
